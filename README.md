@@ -31,4 +31,6 @@ If you have anything that you think they are awesome related to Gaze Estimation,
 
 ## License
 
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, [Zhuoran Wu](https://github.com/WuZhuoran) has waived all copyright and related or neighboring rights to this work. If you want to use any items in this list, please refer their own License.
