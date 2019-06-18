@@ -13,6 +13,22 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 ## Review Papers
 
+* Mohamed Khamis, Florian Alt, Andreas Bulling. **The Past, Present, and Future of Gaze-enabled Handheld Mobile Devices: Survey and Lessons Learned**. [PDF](http://eprints.gla.ac.uk/170199/1/170199.pdf) [MobileHCI2018 IEEE]
+
+* Anuradha Kar and Peter Corcoran. **A Review and Analysis of Eye-Gaze Estimation Systems, Algorithms and Performance Evaluation Methods in Consumer Platforms**. [PDF](https://ieeexplore.ieee.org/document/8003267) [Kar-Corcoran2017 IEEE]
+
+* kshay A Gawande, Gangotri Nathaney. **A Survey on Gaze Estimation Techniques in Smartphone**. [PDF](https://www.irjet.net/archives/V4/i4/IRJET-V4I4651.pdf) [Gawande-Nathaney2017 IRJET]
+
+* Xiaomeng Wang, Kang Liu, Xu Qian. **A Survey on Gaze Estimation**. [PDF](https://ieeexplore.ieee.org/document/7383057) [Wang-etal2015 ISKE]
+
+* M. V. Sireesha, P. A. Vijaya, K. Chellamma. **A Survey on Gaze Estimation Techniques**. [PDF](https://link.springer.com/chapter/10.1007%2F978-81-322-1524-0_43) [Sireesha-etal2013 LNEE]
+
+* D.W. Hansen, Qiang Ji. **In the Eye of the Beholder: A Survey of Models for Eyes and Gaze**. [PDF](https://ieeexplore.ieee.org/document/4770110) [Hansen-Ji2010 TPAMI]
+
+* Abdallahi Ould, Mohamed Matthieu, Perreira Da Silva, Vincent Courboulay. **A history of eye gaze tracking**. [PDF](https://hal.archives-ouvertes.fr/hal-00215967/document) [Ould-etal2008 HAL] 
+
+* Carlos H. Morimoto, Marcio R.M. Mimica. **Eye gaze tracking techniques for interactive applications**. [PDF](https://www.sciencedirect.com/science/article/pii/S1077314204001109) [Morimoto-Mimica2005 CVIU]
+
 ## Journal Papers
 
 ## Conference Papers
