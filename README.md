@@ -13,21 +13,21 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 ## Review Papers
 
-* Mohamed Khamis, Florian Alt, Andreas Bulling. **The Past, Present, and Future of Gaze-enabled Handheld Mobile Devices: Survey and Lessons Learned**. [PDF](http://eprints.gla.ac.uk/170199/1/170199.pdf) [MobileHCI2018 IEEE]
+* Mohamed Khamis, Florian Alt, Andreas Bulling. **The Past, Present, and Future of Gaze-enabled Handheld Mobile Devices: Survey and Lessons Learned**. [PDF](http://eprints.gla.ac.uk/170199/1/170199.pdf) [Code][MobileHCI2018 IEEE]
 
-* Anuradha Kar and Peter Corcoran. **A Review and Analysis of Eye-Gaze Estimation Systems, Algorithms and Performance Evaluation Methods in Consumer Platforms**. [PDF](https://ieeexplore.ieee.org/document/8003267) [Kar-Corcoran2017 IEEE]
+* Anuradha Kar and Peter Corcoran. **A Review and Analysis of Eye-Gaze Estimation Systems, Algorithms and Performance Evaluation Methods in Consumer Platforms**. [PDF](https://ieeexplore.ieee.org/document/8003267) [Code] [Kar-Corcoran2017 IEEE]
 
-* kshay A Gawande, Gangotri Nathaney. **A Survey on Gaze Estimation Techniques in Smartphone**. [PDF](https://www.irjet.net/archives/V4/i4/IRJET-V4I4651.pdf) [Gawande-Nathaney2017 IRJET]
+* kshay A Gawande, Gangotri Nathaney. **A Survey on Gaze Estimation Techniques in Smartphone**. [PDF](https://www.irjet.net/archives/V4/i4/IRJET-V4I4651.pdf) [Code] [Gawande-Nathaney2017 IRJET]
 
-* Xiaomeng Wang, Kang Liu, Xu Qian. **A Survey on Gaze Estimation**. [PDF](https://ieeexplore.ieee.org/document/7383057) [Wang-etal2015 ISKE]
+* Xiaomeng Wang, Kang Liu, Xu Qian. **A Survey on Gaze Estimation**. [PDF](https://ieeexplore.ieee.org/document/7383057) [Code] [Wang-etal2015 ISKE]
 
-* M. V. Sireesha, P. A. Vijaya, K. Chellamma. **A Survey on Gaze Estimation Techniques**. [PDF](https://link.springer.com/chapter/10.1007%2F978-81-322-1524-0_43) [Sireesha-etal2013 LNEE]
+* M. V. Sireesha, P. A. Vijaya, K. Chellamma. **A Survey on Gaze Estimation Techniques**. [PDF](https://link.springer.com/chapter/10.1007%2F978-81-322-1524-0_43) [Code] [Sireesha-etal2013 LNEE]
 
-* D.W. Hansen, Qiang Ji. **In the Eye of the Beholder: A Survey of Models for Eyes and Gaze**. [PDF](https://ieeexplore.ieee.org/document/4770110) [Hansen-Ji2010 TPAMI]
+* D.W. Hansen, Qiang Ji. **In the Eye of the Beholder: A Survey of Models for Eyes and Gaze**. [PDF](https://ieeexplore.ieee.org/document/4770110) [Code] [Hansen-Ji2010 TPAMI]
 
-* Abdallahi Ould, Mohamed Matthieu, Perreira Da Silva, Vincent Courboulay. **A history of eye gaze tracking**. [PDF](https://hal.archives-ouvertes.fr/hal-00215967/document) [Ould-etal2008 HAL] 
+* Abdallahi Ould, Mohamed Matthieu, Perreira Da Silva, Vincent Courboulay. **A history of eye gaze tracking**. [PDF](https://hal.archives-ouvertes.fr/hal-00215967/document) [Code] [Ould-etal2008 HAL] 
 
-* Carlos H. Morimoto, Marcio R.M. Mimica. **Eye gaze tracking techniques for interactive applications**. [PDF](https://www.sciencedirect.com/science/article/pii/S1077314204001109) [Morimoto-Mimica2005 CVIU]
+* Carlos H. Morimoto, Marcio R.M. Mimica. **Eye gaze tracking techniques for interactive applications**. [PDF](https://www.sciencedirect.com/science/article/pii/S1077314204001109) [Code] [Morimoto-Mimica2005 CVIU]
 
 ## Journal Papers
 
@@ -35,13 +35,13 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 ### CVPR 2019
 
-* Yunyang Xiong, Hyunwoo J. Kim, Vikas Singh. **Mixed Effects Convolutional Neural Networks (MeNets) with Applications to Gaze Estimation** [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Mixed_Effects_Neural_Networks_MeNets_With_Applications_to_Gaze_Estimation_CVPR_2019_paper.pdf)
+* Yunyang Xiong, Hyunwoo J. Kim, Vikas Singh. **Mixed Effects Convolutional Neural Networks (MeNets) with Applications to Gaze Estimation** [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Mixed_Effects_Neural_Networks_MeNets_With_Applications_to_Gaze_Estimation_CVPR_2019_paper.pdf) [Code]
 
-* Yu Yu, Gang Liu, Jean-Marc Odobez. **Improving User-Specific Gaze Estimation via Gaze Redirection Synthesis** [PDF](https://www.idiap.ch/~odobez/publications/YuLiuOdobez-CVPR2019.pdf)
+* Yu Yu, Gang Liu, Jean-Marc Odobez. **Improving User-Specific Gaze Estimation via Gaze Redirection Synthesis** [PDF](https://www.idiap.ch/~odobez/publications/YuLiuOdobez-CVPR2019.pdf) [Code]
 
-* Kang Wang, Hui Su, Qiang Ji. **Neuro-inspired Eye Tracking with Eye Movement Dynamics** [PDF](http://homepages.rpi.edu/~wangk10/papers/wang2019neural.pdf)
+* Kang Wang, Hui Su, Qiang Ji. **Neuro-inspired Eye Tracking with Eye Movement Dynamics** [PDF](http://homepages.rpi.edu/~wangk10/papers/wang2019neural.pdf) [Code]
 
-* Kang Wang, Rui Zhao, Hui Su, Qiang Ji. **Generalizing Eye Tracking with Bayesian Adversarial Learning** [PDF](http://homepages.rpi.edu/~wangk10/papers/wang2019generalize.pdf)
+* Kang Wang, Rui Zhao, Hui Su, Qiang Ji. **Generalizing Eye Tracking with Bayesian Adversarial Learning** [PDF](http://homepages.rpi.edu/~wangk10/papers/wang2019generalize.pdf) [Code]
 
 ## arXiv Papers
 
