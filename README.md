@@ -17,6 +17,16 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 ## Conference Papers
 
+### CVPR 2019
+
+* Yunyang Xiong, Hyunwoo J. Kim, Vikas Singh. **Mixed Effects Convolutional Neural Networks (MeNets) with Applications to Gaze Estimation** [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Mixed_Effects_Neural_Networks_MeNets_With_Applications_to_Gaze_Estimation_CVPR_2019_paper.pdf)
+
+* Yu Yu, Gang Liu, Jean-Marc Odobez. **Improving User-Specific Gaze Estimation via Gaze Redirection Synthesis** [PDF](https://www.idiap.ch/~odobez/publications/YuLiuOdobez-CVPR2019.pdf)
+
+* Kang Wang, Hui Su, Qiang Ji. **Neuro-inspired Eye Tracking with Eye Movement Dynamics** [PDF](http://homepages.rpi.edu/~wangk10/papers/wang2019neural.pdf)
+
+* Kang Wang, Rui Zhao, Hui Su, Qiang Ji. **Generalizing Eye Tracking with Bayesian Adversarial Learning** [PDF](http://homepages.rpi.edu/~wangk10/papers/wang2019generalize.pdf)
+
 ## arXiv Papers
 
 ## Datasets
