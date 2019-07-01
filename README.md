@@ -59,6 +59,28 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 * Rajeev Ranjan, Shalini De Mello, Jan Kautz. **Light-weight Head Pose Invariant Gaze Tracking** [PDF](https://arxiv.org/pdf/1804.08572.pdf) [Code]()
 
+
+
+
+
+### ECCV 2018
+
+* Tobias Fischer, Hyung Jin Chang, Yiannis Demiris. **RT-GENE: Real-Time Eye Gaze Estimation in Natural Environments** [PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tobias_Fischer_RT-GENE_Real-Time_Eye_ECCV_2018_paper.pdf) [Code](https://github.com/Tobias-Fischer/rt_gene)
+
+* Ernesto Brau, Jinyan Guan, Tanya Jeffries, Kobus Barnard. **Multiple-Gaze Geometry: Inferring Novel 3D Locations from Gazes Observed in Monocular Video** [PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ernesto_Brau_Stereo_gaze_Inferring_ECCV_2018_paper.pdf) [Code]()
+
+* Yin Li, Miao Liu, James M. Rehg. **In the Eye of Beholder: Joint Learning of Gaze and Actions in First Person Video** [PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf) [Code]()
+
+* Yifei Huang, Minjie Cai, Zhenqiang Li, Yoichi Sato. **Predicting Gaze in Egocentric Video by Learning Task-Dependent Attention Transition** [PDF](https://arxiv.org/abs/1803.09125) [Code](https://github.com/hyf015/egocentric-gaze-prediction)
+
+* Eunji Chong and Nataniel Ruiz and Yongxin Wang and Yun Zhang and Agata Rozga and James Rehg. **Connecting Gaze, Scene, and Attention: Generalized Attention Estimation via Joint Modeling of Gaze and Scene Saliency** [PDF](https://arxiv.org/pdf/1807.10437.pdf) [Code]()
+
+* Seonwook Park and Adrian Spurr and Otmar Hilliges. **Deep Pictorial Gaze Estimation** [PDF](https://arxiv.org/pdf/1807.10002.pdf) [Code](https://github.com/swook/GazeML)
+
+* Cheng, Yihua and Lu, Feng and Zhang, Xucong. **Appearance-Based Gaze Estimation via Evaluation-Guided Asymmetric Regression** [PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihua_Cheng_Appearance-Based_Gaze_Estimation_ECCV_2018_paper.pdf) [Code]()
+
+* Yu Yu, Gang Liu, Jean-Marc Odobez. **Deep Multitask Gaze Estimation with a Constrained Landmark-Gaze Model** [PDF](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Yu_Deep_Multitask_Gaze_Estimation_with_a_Constrained_Landmark-Gaze_Model_ECCVW_2018_paper.pdf) [Code]()
+
 ## arXiv Papers
 
 ## Datasets
