@@ -19,7 +19,7 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 * kshay A Gawande, Gangotri Nathaney. **A Survey on Gaze Estimation Techniques in Smartphone** [PDF](https://www.irjet.net/archives/V4/i4/IRJET-V4I4651.pdf)
 
-* Xiaomeng Wang, Kang Liu, Xu Qian. **A Survey on Gaze Estimation** [PDF](https://ieeexplore.ieee.org/document/7383057) [Code]
+* Xiaomeng Wang, Kang Liu, Xu Qian. **A Survey on Gaze Estimation** [PDF](https://ieeexplore.ieee.org/document/7383057)
 
 * M. V. Sireesha, P. A. Vijaya, K. Chellamma. **A Survey on Gaze Estimation Techniques** [PDF](https://link.springer.com/chapter/10.1007%2F978-81-322-1524-0_43)
 
@@ -81,6 +81,48 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 * Yu Yu, Gang Liu, Jean-Marc Odobez. **Deep Multitask Gaze Estimation with a Constrained Landmark-Gaze Model** [PDF](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Yu_Deep_Multitask_Gaze_Estimation_with_a_Constrained_Landmark-Gaze_Model_ECCVW_2018_paper.pdf)
 
+### BMVC 2018
+
+* Cristina Palmero, Javier Selva, Mohammad Ali Bagheri, Sergio Escalera. **Recurrent CNN for 3D Gaze Estimation using Appearance and Shape Cues** [PDF](https://arxiv.org/pdf/1805.03064.pdf) [Code](https://github.com/crisie/RecurrentGaze)
+
+* Liu, Gang and Yu, Yu and Funes-Mora, Kenneth A and Odobez, Jean-Marc and SA, Eyeware Tech. **A Differential Approach for Gaze Estimation with Calibration** [PDF](https://pdfs.semanticscholar.org/192e/b550675b0f9cc69389ef2ec27efa72851253.pdf)
+
+### ICCV 2017
+
+* George Leifman, Dmitry Rudoy, Tristan Swedish, Eduardo Bayro-Corrochano, Ramesh Raskar. **Learning Gaze Transitions From Depth to Improve Video Saliency Estimation** [PDF](http://openaccess.thecvf.com/content_ICCV_2017/papers/Leifman_Learning_Gaze_Transitions_ICCV_2017_paper.pdf)
+
+* Kang Wang, Qiang Ji. **Real Time Eye Gaze Tracking With 3D Deformable Eye-Face Model** [PDF](https://ieeexplore.ieee.org/document/8237376)
+
+* Haoping Deng and Wangjiang Zhu. **Monocular Free-Head 3D Gaze Tracking with Deep Learning and Geometry Constraints** [PDF](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Monocular_Free-Head_3D_ICCV_2017_paper.pdf) [Code](https://github.com/Walleclipse/Gaze_Tracking)
+
+* Adria Recasens and Carl Vondrick and Aditya Khosla and Antonio Torralba. **Following Gaze in Video** [PDF](http://people.csail.mit.edu/recasens/docs/videogazefollow.pdf) [Code](https://github.com/recasens/Gaze-Following)
+
+### CVPR 2017
+
+* Nour Karessli, Zeynep Akata, Bernt Schiele, Andreas Bulling. **Gaze Embeddings for Zero-Shot Image Classification** [PDF](https://arxiv.org/pdf/1611.09309.pdf) [Code](https://github.com/Noura-kr/CVPR17)
+
+* Mengmi Zhang, Keng Teck Ma, Joo Hwee Lim, Qi Zhao, Jiashi Feng. **Deep Future Gaze: Gaze Anticipation on Egocentric Videos Using Adversarial Networks** [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf) [Code](https://github.com/Mengmi/deepfuturegaze_gan)
+
+* Xucong Zhang and Yusuke Sugano and Mario Fritz and Andreas Bulling. **It's Written All Over Your Face: Full-Face Appearance-Based Gaze Estimation** [PDF](https://arxiv.org/pdf/1611.08860.pdf)
+
+### Other 2017
+
+* Xucong Zhang and Yusuke Sugano and Andreas Bulling. **Everyday Eye Contact Detection Using Unsupervised Gaze Target Discovery** [PDF](https://perceptual.mpi-inf.mpg.de/files/2017/05/zhang17_uist.pdf)
+
+### ECCV 2016
+
+* Erroll Wood and Tadas Baltrusaitis and Louis-Philippe Morency and Peter Robinson and Andreas Bulling. **A 3D Morphable Eye Region Model for Gaze Estimation** [PDF](https://perceptual.mpi-inf.mpg.de/wp-content/blogs.dir/12/files/2016/08/wood16_eccv.pdf)
+
+* Ganin, Yaroslav, Daniil Kononenko, Diana Sungatullina, and Victor Lempitsky. **DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation** [PDF](https://arxiv.org/pdf/1607.07215.pdf) [Code](https://github.com/BlueWinters/DeepWarp)
+
+### CVPR 2016
+
+* Kyle Krafka and Aditya Khosla and Petr Kellnhofer and Harini Kannan and Suchendra Bhandarkar and Wojciech Matusik and Antonio Torralba. **Eye Tracking for Everyone** [PDF](http://gazecapture.csail.mit.edu/cvpr2016_gazecapture.pdf) [Code](https://github.com/CSAILVision/GazeCapture)
+
+* Pei Yu and Jiahuan Zhou and Ying Wu. **Learning Reconstruction-Based Remote Gaze Estimation** [PDF](https://zpascal.net/cvpr2016/Yu_Learning_Reconstruction-Based_Remote_CVPR_2016_paper.pdf)
+
+* Laszlo A. Jeni and Jeffrey F. Cohn. **Person-Independent 3D Gaze Estimation Using Face Frontalization** [PDF](http://www.pitt.edu/~jeffcohn/biblio/3D-Gaze.pdf)
+
 ## arXiv Papers
 
 ## Datasets
@@ -88,7 +130,20 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 |Dataset|RGB/RGB-D|Image type|Annotation type|Images|Distance|Head pose annot.|Gaze annot.|Head pose orient.|
 |---|---|---|---|---|---|---|---|---|
 |[MPII Gaze](https://github.com/trakaros/MPIIGaze)|RGB|Face + Eye Patches|Gaze Vector|213.659|40-60cm|Y|Y|Frontal|
-	
+|[BIWI]()|RGB-D|Camera frame|Head pose vector|≈ 15.500|100cm|Y|N|All|
+|[CMU Multi-Pie]()|RGB|Camera frame|68 Facial landmarks|755.370|≈ 300cm|Y|N|All|
+|[Coffeebreak]()|RGB|Low res. face image|Head pose vector|18.117|Varying|Y|N|All|
+|[Columbia]()|RGB|High res. camera image|Gaze vector|5.880|200cm|5 orient.|Y|Frontal|
+|[Deep Head Pose]()|RGB-D|Camera frame|Head pose vector|68.000|≈ 200-800cm|Y|N|All|
+|[EYEDIAP]()|RGB-D|Face + eye patches|Gaze vector|≈ 62.500|80-120cm|Y|Y|Frontal|
+|[Gaze Capture]()|RGB|Face + eye patches|2D pos on screen|> 2.5M|80-120cm|Y|Y|Frontal|
+|[ICT 3D Head pose]()|RGB-D|Camera frame|Head pose vector|14.000|≈ 100cm|Y|N|All|
+|[Rice TabletGaze]()|RGB|Tablet camera video|2D pos on screen|≈ 100.000|30-50cm|N|Y|Frontal|
+|[RT-GENE]()|RGB-D|Face + eye patches|Gaze vector|122.531|80-280cm|Y|Y|All|
+|[SynthesEyes]()|RGB|Synthesized eye patches|Gaze vector|11.382|Varying|Y|Y|All|
+|[UnityEyes]()|RGB|Synthesized eye patches|Gaze vector|1M|Varying|Y|Y|All|
+|[UT Multi-view]()|RGB|Eye area + eye patches|Gaze vector|1.152.000|60cm|Y|Y|All|
+|[Vernissage]()|RGB|(Robot)|camera frame|Head pose vector|Unknown|Varying|Y|N|All||
 
 
 ## Reference
