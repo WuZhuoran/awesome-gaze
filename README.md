@@ -33,6 +33,12 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 ## Conference Papers
 
+### ECCV 2019
+
+* Petr Kellnhofer, Adria Recasens, Simon Stent, Wojciech Matusik, Antonio Torralba. **Gaze360: Physically Unconstrained Gaze Estimation in the Wild** [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kellnhofer_Gaze360_Physically_Unconstrained_Gaze_Estimation_in_the_Wild_ICCV_2019_paper.pdf) [Code](https://github.com/Erkil1452/gaze360)
+
+* Seonwook Park, Shalini De Mello, Pavlo Molchanov, Umar Iqbal, Otmar Hilliges, Jan Kautz. **Few-Shot Adaptive Gaze Estimation** [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf) [Code](https://github.com/NVlabs/few_shot_gaze)
+
 ### CVPR 2019
 
 * Yunyang Xiong, Hyunwoo J. Kim, Vikas Singh. **Mixed Effects Convolutional Neural Networks (MeNets) with Applications to Gaze Estimation** [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Mixed_Effects_Neural_Networks_MeNets_With_Applications_to_Gaze_Estimation_CVPR_2019_paper.pdf)
