@@ -33,6 +33,8 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 ## Conference Papers
 
+### NIPS 2019
+
 ### ECCV 2019
 
 * Petr Kellnhofer, Adria Recasens, Simon Stent, Wojciech Matusik, Antonio Torralba. **Gaze360: Physically Unconstrained Gaze Estimation in the Wild** [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kellnhofer_Gaze360_Physically_Unconstrained_Gaze_Estimation_in_the_Wild_ICCV_2019_paper.pdf) [Code](https://github.com/Erkil1452/gaze360)
