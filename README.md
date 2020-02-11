@@ -33,7 +33,9 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 ## Conference Papers
 
-### NIPS 2019
+### AAAI 2019
+
+* Dongze Lian, Ziheng Zhang, Weixin Luo, Lina Hu, Minye Wu, Zechao Li, Jingyi Yu, Shenghua Gao. **RGBD Based Gaze Estimation via Multi-Task CNN** [PDF](https://www.aaai.org/ojs/index.php/AAAI/article/view/4094/3972) [Code](https://github.com/svip-lab/RGBD-Gaze)
 
 ### ECCV 2019
 
