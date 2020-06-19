@@ -75,7 +75,7 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 * Erik Linden, Jonas Sjostrand, Alexandre Proutiere. **Learning to personalize in appearance-based gaze tracking** [PDF](http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/Linden_Learning_to_Personalize_in_Appearance-Based_Gaze_Tracking_ICCVW_2019_paper.pdf)
 
-* Seonwook Park, Shalini De Mello, Pavlo Molchanov, Umar Iqbal, Otmar Hilliges, Jan Kautz.**Few-Shot Adaptive Gaze Estimation** [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf) 
+* Seonwook Park, Shalini De Mello, Pavlo Molchanov, Umar Iqbal, Otmar Hilliges, Jan Kautz. **Few-Shot Adaptive Gaze Estimation** [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf) 
 [Supp](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Park_Few-Shot_Adaptive_Gaze_ICCV_2019_supplemental.pdf) [Code](https://github.com/NVlabs/few_shot_gaze)
 
 
