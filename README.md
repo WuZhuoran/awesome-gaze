@@ -4,12 +4,12 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 ## Table of Content
 
 * [Review Papers](#Review-Papers)
-* [Related Organizations](#Related Organizations)
+* [Related Organizations](#Related-Organizations)
 * [Journal Papers](#Journal-Papers)
 * [Conference Papers](#Conference-Papers)
 * [arXiv Papers](#arXiv-papers)
 * [Datasets](#Datasets)
-* [Gaze Challenges](#Gaze Challenges)
+* [Gaze Challenges](#Gaze-Challenges)
 * [Contribution](#Contribution)
 * [License](#License)
 
@@ -176,9 +176,9 @@ Training** [PDF](https://arxiv.org/pdf/1612.07828v1.pdf) [Code](https://github.c
 
 |Time|Dataset|RGB/RGB-D|Image type|Annotation type|Subjects|Images|Distance|Head pose annot.|Gaze annot.|Head pose orient.|
 |---|---|---|---|---|---|---|---|---|---|---|
-|2019|[Gaze360](http://gaze360.csail.mit.edu/)|RGB|Camera frame|Gaze Vector|238|172.000|Varing|N|Y|All|
-|2019|[NVGaze](https://research.nvidia.com/publication/2019-05_NVGaze%3A-An-Anatomically-Informed)|IR|Real Eye + Synthesized Eye patches|Gaze Vector|35|2.500.000real+2.000.000Synthesized|Varing|N|Y|All|
-|2019|[ShanghaiTechGaze+](https://github.com/svip-lab/RGBD-Gaze)|RGB-D|Face+Eye Patches|Gaze Vector|218|165.231|Varing|N|Y|All|
+|2019|[Gaze360](http://gaze360.csail.mit.edu/)|RGB|Camera frame|Gaze Vector|238|172.000|Varying|N|Y|All|
+|2019|[NVGaze](https://research.nvidia.com/publication/2019-05_NVGaze%3A-An-Anatomically-Informed)|IR|Real Eye + Synthesized Eye patches|Gaze Vector|35|2.500.000real<br>2.000.000Synthesized|Varying|N|Y|All|
+|2019|[ShanghaiTechGaze+](https://github.com/svip-lab/RGBD-Gaze)|RGB-D|Face+Eye Patches|Gaze Vector|218|165.231|Varying|N|Y|All|
 |2017|[MPIIFaceGaze](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/gaze-based-human-computer-interaction/its-written-all-over-your-face-full-face-appearance-based-gaze-estimation/)|RGB|Face + Eye Patches|Gaze Vector|15|213.659|40-60cm|Y|Y|Frontal|
 |2017|[Rice TabletGaze](http://sh.rice.edu/cognitive-engagement/tabletgaze/)|RGB|Tablet camera video|2D pos on screen|51|≈ 100.000|30-50cm|N|Y|Frontal|
 |2016|[Gaze Capture](https://github.com/CSAILVision/GazeCapture)|RGB|Face + eye patches|2D pos on screen|1474|> 2.5M|80-120cm|Y|Y|Frontal|
