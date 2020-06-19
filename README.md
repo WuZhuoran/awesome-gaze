@@ -32,6 +32,10 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 ## Journal Papers
 
 ## Conference Papers
+### CVPR 2020
+
+* Yu, Yu, Odobez, Jean-Marc. **Unsupervised Representation Learning for Gaze Estimation** [PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Unsupervised_Representation_Learning_for_Gaze_Estimation_CVPR_2020_paper.pdf)
+**(Supplementary Material** [PDF](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yu_Unsupervised_Representation_Learning_CVPR_2020_supplemental.pdf))
 
 ### AAAI 2019
 
