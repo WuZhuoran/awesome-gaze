@@ -4,10 +4,12 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 ## Table of Content
 
 * [Review Papers](#Review-Papers)
+* [Related Organizations](#Related-Organizations)
 * [Journal Papers](#Journal-Papers)
 * [Conference Papers](#Conference-Papers)
 * [arXiv Papers](#arXiv-papers)
 * [Datasets](#Datasets)
+* [Gaze Challenges](#Gaze-Challenges)
 * [Contribution](#Contribution)
 * [License](#License)
 
@@ -29,9 +31,25 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 * Carlos H. Morimoto, Marcio R.M. Mimica. **Eye gaze tracking techniques for interactive applications** [PDF](https://www.sciencedirect.com/science/article/pii/S1077314204001109) 
 
+## Related Organizations
+(refer to [YuYu](https://sites.google.com/view/yuyuvision/home))
+
+* [EPFL&Idiap](https://www.idiap.ch/~odobez/)
+* [ETH](https://ait.ethz.ch/people/hilliges/)
+* [Dr.Andreas Bulling](https://perceptualui.org/people/bulling/)
+* [Erroll Wood](http://www.errollw.com/)
+* [MIT Antonio Torralba](http://web.mit.edu/torralba/www/)
+* [Qiang Ji](https://www.ecse.rpi.edu/~qji/)
+* [The University of Tokyo,Yusuke Sugano](https://www.yusuke-sugano.info/)
+* [Beihang University, Feng Lu](http://phi-ai.org/default.htm)
+
 ## Journal Papers
 
 ## Conference Papers
+### CVPR 2020
+
+* Yu, Yu, Odobez, Jean-Marc. **Unsupervised Representation Learning for Gaze Estimation** [PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Unsupervised_Representation_Learning_for_Gaze_Estimation_CVPR_2020_paper.pdf) 
+[Supp](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yu_Unsupervised_Representation_Learning_CVPR_2020_supplemental.pdf)
 
 ### AAAI 2019
 
@@ -47,11 +65,22 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 * Yunyang Xiong, Hyunwoo J. Kim, Vikas Singh. **Mixed Effects Convolutional Neural Networks (MeNets) with Applications to Gaze Estimation** [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Mixed_Effects_Neural_Networks_MeNets_With_Applications_to_Gaze_Estimation_CVPR_2019_paper.pdf)
 
-* Yu Yu, Gang Liu, Jean-Marc Odobez. **Improving User-Specific Gaze Estimation via Gaze Redirection Synthesis** [PDF](https://www.idiap.ch/~odobez/publications/YuLiuOdobez-CVPR2019.pdf)
+* Yu Yu, Gang Liu, Jean-Marc Odobez. **Improving Few-Shot User-Specific Gaze Adaptation via Gaze Redirection Synthesis** [PDF](https://www.idiap.ch/~odobez/publications/YuLiuOdobez-CVPR2019.pdf)
 
 * Kang Wang, Hui Su, Qiang Ji. **Neuro-inspired Eye Tracking with Eye Movement Dynamics** [PDF](http://homepages.rpi.edu/~wangk10/papers/wang2019neural.pdf)
 
 * Kang Wang, Rui Zhao, Hui Su, Qiang Ji. **Generalizing Eye Tracking with Bayesian Adversarial Learning** [PDF](http://homepages.rpi.edu/~wangk10/papers/wang2019generalize.pdf)
+
+### ICCV 2019
+
+* Erik Linden, Jonas Sjostrand, Alexandre Proutiere. **Learning to personalize in appearance-based gaze tracking** [PDF](http://openaccess.thecvf.com/content_ICCVW_2019/papers/GAZE/Linden_Learning_to_Personalize_in_Appearance-Based_Gaze_Tracking_ICCVW_2019_paper.pdf)
+
+* Seonwook Park, Shalini De Mello, Pavlo Molchanov, Umar Iqbal, Otmar Hilliges, Jan Kautz. **Few-Shot Adaptive Gaze Estimation** [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf) 
+[Supp](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Park_Few-Shot_Adaptive_Gaze_ICCV_2019_supplemental.pdf) [Code](https://github.com/NVlabs/few_shot_gaze)
+
+
+### PAMI 2019
+*  Gang Liu, Yu Yu, Kenneth Alberto Funes Mora, Jean-Marc Odobez. **A differential approach for gaze estimation** [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8920005)
 
 ### CVPR 2018
 
@@ -97,6 +126,12 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 * Liu, Gang and Yu, Yu and Funes-Mora, Kenneth A and Odobez, Jean-Marc and SA, Eyeware Tech. **A Differential Approach for Gaze Estimation with Calibration** [PDF](https://pdfs.semanticscholar.org/192e/b550675b0f9cc69389ef2ec27efa72851253.pdf)
 
+### ETRA 2018
+
+* Seonwook Park, Xucong Zhang, Andreas Bulling, Otmar Hilliges. **Learning to find eye region landmarks for remote gaze estimation in unconstrained settings** [PDF](https://dl.acm.org/doi/pdf/10.1145/3204493.3204545) [Code](https://github.com/swook/GazeML)
+
+
+
 ### ICCV 2017
 
 * George Leifman, Dmitry Rudoy, Tristan Swedish, Eduardo Bayro-Corrochano, Ramesh Raskar. **Learning Gaze Transitions From Depth to Improve Video Saliency Estimation** [PDF](http://openaccess.thecvf.com/content_ICCV_2017/papers/Leifman_Learning_Gaze_Transitions_ICCV_2017_paper.pdf)
@@ -108,6 +143,8 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 * Adria Recasens and Carl Vondrick and Aditya Khosla and Antonio Torralba. **Following Gaze in Video** [PDF](http://people.csail.mit.edu/recasens/docs/videogazefollow.pdf) [Code](https://github.com/recasens/Gaze-Following)
 
 ### CVPR 2017
+* Ashish Shrivastava, Tomas Pfister, Oncel Tuzel, Josh Susskind, Wenda Wang, Russ Webb. **Learning from Simulated and Unsupervised Images through Adversarial
+Training** [PDF](https://arxiv.org/pdf/1612.07828v1.pdf) [Code](https://github.com/mjdietzx/SimGAN)
 
 * Nour Karessli, Zeynep Akata, Bernt Schiele, Andreas Bulling. **Gaze Embeddings for Zero-Shot Image Classification** [PDF](https://arxiv.org/pdf/1611.09309.pdf) [Code](https://github.com/Noura-kr/CVPR17)
 
@@ -137,24 +174,24 @@ A curated list of awesome gaze estimation papers, codes, datasets and other awes
 
 ## Datasets
 
-|Dataset|RGB/RGB-D|Image type|Annotation type|Images|Distance|Head pose annot.|Gaze annot.|Head pose orient.|
-|---|---|---|---|---|---|---|---|---|
-|[MPII Gaze](https://github.com/trakaros/MPIIGaze)|RGB|Face + Eye Patches|Gaze Vector|213.659|40-60cm|Y|Y|Frontal|
-|[BIWI]()|RGB-D|Camera frame|Head pose vector|≈ 15.500|100cm|Y|N|All|
-|[CMU Multi-Pie]()|RGB|Camera frame|68 Facial landmarks|755.370|≈ 300cm|Y|N|All|
-|[Coffeebreak]()|RGB|Low res. face image|Head pose vector|18.117|Varying|Y|N|All|
-|[Columbia]()|RGB|High res. camera image|Gaze vector|5.880|200cm|5 orient.|Y|Frontal|
-|[Deep Head Pose]()|RGB-D|Camera frame|Head pose vector|68.000|≈ 200-800cm|Y|N|All|
-|[EYEDIAP]()|RGB-D|Face + eye patches|Gaze vector|≈ 62.500|80-120cm|Y|Y|Frontal|
-|[Gaze Capture]()|RGB|Face + eye patches|2D pos on screen|> 2.5M|80-120cm|Y|Y|Frontal|
-|[ICT 3D Head pose]()|RGB-D|Camera frame|Head pose vector|14.000|≈ 100cm|Y|N|All|
-|[Rice TabletGaze]()|RGB|Tablet camera video|2D pos on screen|≈ 100.000|30-50cm|N|Y|Frontal|
-|[RT-GENE]()|RGB-D|Face + eye patches|Gaze vector|122.531|80-280cm|Y|Y|All|
-|[SynthesEyes]()|RGB|Synthesized eye patches|Gaze vector|11.382|Varying|Y|Y|All|
-|[UnityEyes](https://www.cl.cam.ac.uk/research/rainbow/projects/unityeyes/)|RGB|Synthesized eye patches|Gaze vector|1M|Varying|Y|Y|All|
-|[UT Multi-view]()|RGB|Eye area + eye patches|Gaze vector|1.152.000|60cm|Y|Y|All|
-|[Vernissage]()|RGB|(Robot)|camera frame|Head pose vector|Unknown|Varying|Y|N|All||
+|Time|Dataset|RGB/RGB-D|Image type|Annotation type|Subjects|Images|Distance|Head pose annot.|Gaze annot.|Head pose orient.|
+|---|---|---|---|---|---|---|---|---|---|---|
+|2019|[Gaze360](http://gaze360.csail.mit.edu/)|RGB|Camera frame|Gaze Vector|238|172.000|Varying|N|Y|All|
+|2019|[NVGaze](https://research.nvidia.com/publication/2019-05_NVGaze%3A-An-Anatomically-Informed)|IR|Real Eye + Synthesized Eye patches|Gaze Vector|35|2.500.000real<br>2.000.000Synthesized|Varying|N|Y|All|
+|2019|[ShanghaiTechGaze+](https://github.com/svip-lab/RGBD-Gaze)|RGB-D|Face+Eye Patches|Gaze Vector|218|165.231|Varying|N|Y|All|
+|2017|[MPIIFaceGaze](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/gaze-based-human-computer-interaction/its-written-all-over-your-face-full-face-appearance-based-gaze-estimation/)|RGB|Face + Eye Patches|Gaze Vector|15|213.659|40-60cm|Y|Y|Frontal|
+|2017|[Rice TabletGaze](http://sh.rice.edu/cognitive-engagement/tabletgaze/)|RGB|Tablet camera video|2D pos on screen|51|≈ 100.000|30-50cm|N|Y|Frontal|
+|2016|[Gaze Capture](https://github.com/CSAILVision/GazeCapture)|RGB|Face + eye patches|2D pos on screen|1474|> 2.5M|80-120cm|Y|Y|Frontal|
+|2016|[UnityEyes](https://www.cl.cam.ac.uk/research/rainbow/projects/unityeyes/)|RGB|Synthesized eye patches|Gaze vector|/|1M|Varying|Y|Y|All|
+|2015|[SynthesEyes](https://www.cl.cam.ac.uk/research/rainbow/projects/syntheseyes/)|RGB|Synthesized eye patches|Gaze vector|/|11.382|Varying|Y|Y|All|
+|2014|[EYEDIAP](https://www.idiap.ch/dataset/eyediap)|RGB-D|Face + eye patches|Gaze vector|16|≈ 62.500|80-120cm|Y|Y|Frontal|
+|2014|[UT Multi-view](https://www.ut-vision.org/datasets/)|RGB|Eye area + eye patches|Gaze vector|50|1.152.000|60cm|Y|Y|All|
+|2013|[Columbia](https://www.cs.columbia.edu/CAVE/databases/columbia_gaze/)|RGB|High res. camera image|Gaze vector|56|5.880|200cm|5 orient.|Y|Frontal|
 
+## Gaze Challenges
+(refer to [YuYu](https://sites.google.com/view/yuyuvision/home))
+
+[gaze challenge](https://research.fb.com/programs/openeds-challenge/) held by Facebook Reality Lab
 
 ## Reference
 
